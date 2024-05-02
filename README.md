@@ -20,8 +20,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -60,8 +58,9 @@ Users should be able to:
 Doing this project I learned the basics of custom properties (also called variables) 
 in order to make the code more readable and "dry" (especially the color palette).
 
-The custom properties are declared inside the :root selector. I also tha the :root 
-selector is the same as the html one, but with higher specifity.
+The custom properties are declared inside the :root selector. I also learned that 
+the :root selector is the basically the same thing as the html one, but with higher 
+specifity.
 
 ```css
 :root {
@@ -95,7 +94,7 @@ that one can use to visually build the desired shadow effect.
 
 Regarding HTML, I learned some semantic tags to indicate the publishing date and 
 contact information/author of the content using the tags time, address and the 
-attributes datetime="..."/rel="author". The rel attribute is used solely for giving  
+attributes datetime="..."/rel="author". The rel attribute is used solely for giving 
 the content meaning, so the browser can use it to Search Engine Optimization (SEO).
 
 ```html

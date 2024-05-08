@@ -58,7 +58,7 @@ Users should be able to:
 Doing this project I learned the basics of custom properties (also called variables) 
 in order to make the code more readable and "dry" (especially the color palette).
 
-The custom properties are declared inside the :root selector. I also learned that 
+Usually the custom properties for color themes and typography are declared inside the :root selector. I also learned that 
 the :root selector is the basically the same thing as the html one, but with higher 
 specifity.
 

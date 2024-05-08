@@ -117,7 +117,7 @@ Some aspects that I want to refine for next projects:
 ### Useful resources
 
 - [MDN article on box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
-- [MDN article on the <time> tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time) - It lists the accepted formats for the datetime attribute's value.
+- [MDN article on the `<time>` tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time) - It lists the accepted formats for the datetime attribute's value.
 - [Interactive Guide to Flexbox by Josh Comeau](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) - Amazing resource, really interactive and covers some 
 very important concepts about Flexbox that are, very often, misunderstood/overlooked.
 - [A Complete Guide to Custom Properties by CSS Tricks](https://css-tricks.com/a-complete-guide-to-custom-properties/)
